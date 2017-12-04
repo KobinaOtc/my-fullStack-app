@@ -1,0 +1,17 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kobina Otchere",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
